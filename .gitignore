@@ -109,3 +109,8 @@ build-iPhoneSimulator/
 # Temporary files created by markdown
 *.utf8.md
 *.knit.md
+
+.sass-cache/**
+.sass-cache/
+*.css.map
+*.tmp
