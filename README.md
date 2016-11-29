@@ -6,3 +6,4 @@
 
 
 <i><b>"</b>I have no special talents. I am only passionately curious.<b>"</b></i> — Albert Einstein.
+<p align="justify"><b>Elements®</b>: A periodic table styled modular <a href="http://sass-lang.com/">Sass</a> component.</p>
